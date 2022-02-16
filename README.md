@@ -56,7 +56,7 @@ We thank the following people who contributed to this project:
 
 ## License
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/daianaadepaula/playstation-store/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/daianaadepaula/to-do-list/blob/master/LICENSE) 
 
 <br>
 
